@@ -18,9 +18,7 @@ button{
  outline: none;
  
 }
-button:hover{
- background: gray;
-}
+
 button:active{
  background: dimgray;
  
